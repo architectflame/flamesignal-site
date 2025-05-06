@@ -1,0 +1,44 @@
+
+body {
+    background-color: #111;
+    color: #eee;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    padding: 60px 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+    color: #fff;
+}
+
+p {
+    font-size: 1.2em;
+    margin: 0.5em 0;
+    color: #ccc;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 1em 0;
+}
+
+a {
+    color: #66aaff;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+a:hover {
+    text-decoration: underline;
+}
